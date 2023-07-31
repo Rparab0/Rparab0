@@ -13,6 +13,7 @@ I'm Rutik Parab, a passionate data enthusiast and AI aficionado. Here, you'll fi
 - **[Flight Prediction Flask App]:** A Flask web app for predicting flight fares based on various features like source, destination, airline, and more.
 - **[Text Similarity Flask App using Sentence Transformer]:** A Flask web app to calculate text similarity using the powerful Sentence Transformer model.
 - **[StackOverflow Tag Predictor]:** A machine learning model to predict tags for StackOverflow questions.
+- **[Personalized Cancer Diagnosis]:** Genetic Variation Classification with Text-Based Evidence
 
 ## 🌟 Highlights
 
