@@ -6,13 +6,13 @@ I'm Rutik Parab, a passionate data enthusiast and AI aficionado. Here, you'll fi
 
 ## 🔭 My Projects
 
-- **TranslationBuddy-FlaskLiveApp:** A real-time translation web app powered by Flask and translation APIs to break language barriers.
-- **NLP-to-SQL-Buddy:** Seamlessly converts natural language queries to SQL queries for efficient database interactions.
-- **Amazon-Apparel-Recommendation-System:** An advanced recommendation engine based on content-based clustering for personalized apparel recommendations.
-- **TextSummarizationWebApp:** A powerful web app for automatic text summarization, leveraging the GPT-3 API.
-- **Flight Prediction Flask App:** A Flask web app for predicting flight fares based on various features like source, destination, airline, and more.
-- **Text Similarity Flask App using Sentence Transformer:** A Flask web app to calculate text similarity using the powerful Sentence Transformer model.
-- **StackOverflow Tag Predictor:** A machine learning model to predict tags for StackOverflow questions.
+- **[TranslationBuddy-FlaskLiveApp](http://rparab8.pythonanywhere.com/):** A real-time translation web app powered by Flask and translation APIs to break language barriers.
+- **[NLP-to-SQL-Buddy](http://parabrutik560.pythonanywhere.com/):** Seamlessly converts natural language queries to SQL queries for efficient database interactions.
+- **[Amazon-Apparel-Recommendation-System]:** An advanced recommendation engine based on content-based clustering for personalized apparel recommendations.
+- **[TextSummarizationWebApp]:** A powerful web app for automatic text summarization, leveraging the GPT-3 API.
+- **[Flight Prediction Flask App]:** A Flask web app for predicting flight fares based on various features like source, destination, airline, and more.
+- **[Text Similarity Flask App using Sentence Transformer]:** A Flask web app to calculate text similarity using the powerful Sentence Transformer model.
+- **[StackOverflow Tag Predictor]:** A machine learning model to predict tags for StackOverflow questions.
 
 ## 🌟 Highlights
 
@@ -22,7 +22,7 @@ I'm Rutik Parab, a passionate data enthusiast and AI aficionado. Here, you'll fi
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](www.linkedin.com/in/rutik-parab-42b078286)
+- [LinkedIn](https://www.linkedin.com/in/rutikparab/)
 - Email: rutikparab6@gmail.com
 
 ## 🚀 Explore and Collaborate!
@@ -30,6 +30,3 @@ I'm Rutik Parab, a passionate data enthusiast and AI aficionado. Here, you'll fi
 Feel free to explore my repositories and dive into the world of data science, machine learning, and AI. If you're interested in collaborating on exciting projects or have innovative ideas, don't hesitate to reach out. Let's create something extraordinary together! 🔥
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rparab0)
-
----
-The updated section includes the additional projects under the "My Projects" heading, showcasing Rutik Parab's diverse range of projects and expertise in various areas of data science and AI.
