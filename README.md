@@ -6,8 +6,8 @@ I'm Rutik Parab, a passionate data enthusiast and AI aficionado. Here, you'll fi
 
 ## 🔭 My Projects
 
-- **[TranslationBuddy-FlaskLiveApp](http://rparab8.pythonanywhere.com/):** A real-time translation web app powered by Flask and translation APIs to break language barriers.
-- **[NLP-to-SQL-Buddy](http://parabrutik560.pythonanywhere.com/):** Seamlessly converts natural language queries to SQL queries for efficient database interactions.
+- **[TranslationBuddy-FlaskLiveApp](http://rparab8.pythonanywhere.com/)<--(live app link):** A real-time translation web app powered by Flask and translation APIs to break language barriers.
+- **[NLP-to-SQL-Buddy](http://parabrutik560.pythonanywhere.com/)<--(live app link):** Seamlessly converts natural language queries to SQL queries for efficient database interactions.
 - **[Amazon-Apparel-Recommendation-System]:** An advanced recommendation engine based on content-based clustering for personalized apparel recommendations.
 - **[TextSummarizationWebApp]:** A powerful web app for automatic text summarization, leveraging the GPT-3 API.
 - **[Flight Prediction Flask App]:** A Flask web app for predicting flight fares based on various features like source, destination, airline, and more.
